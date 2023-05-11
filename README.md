@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damian Gonzalez</h1>
-<h3 align="center">I love IDP and platforms to help developers go faster!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingdamiangonzalez" alt="ingdamiangonzalez" /></a> </p>
+<h3 align="center">I love build tools to help developers go faster!</h3>
 
 - 🔭 I’m currently working [Dinocloud] (https://dinocloud.co/)
 
@@ -11,9 +9,7 @@
 
 - 💬 Ask me about **IDP - Platform engineering - Devops - AWS**
 
-- 📫 How to reach me **ing.damian.gonzalez@gmail.com**
-
-- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/ingdamiangonzalez/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/ingdamiangonzalez/). Let´s chat!
 
 
 <h3 align="left">Connect with me:</h3>
