@@ -56,7 +56,7 @@ Frontend        React
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [personalweb](https://damiangonzalez.tech) | Personal website with AI assistant (Dante) narrating my career | CDK · React · Bedrock · DynamoDB · GitHub Actions |
-| pawaq.media | AI-powered media platform (in progress) | AWS · AI · TypeScript |
+| [pawaq.media](https://pawaq.media) | AI-powered media platform (in progress) | AWS · AI · TypeScript |
 
 ---
 
